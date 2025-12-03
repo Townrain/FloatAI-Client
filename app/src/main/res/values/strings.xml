@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Float AI</string>
+    <string name="float_window_title">Float AI</string>
+    <string name="capture_button">Capture &amp; Ask AI</string>
+    <string name="status_ready">Ready</string>
+    <string name="status_capturing">Capturing screen...</string>
+    <string name="status_uploading">Uploading to AI...</string>
+    <string name="status_processing">AI is thinking...</string>
+    <string name="status_error">Error occurred</string>
+    <string name="permission_needed">Permission needed</string>
+    <string name="float_permission_desc">Float AI needs overlay permission to show floating window</string>
+    <string name="screenshot_permission_desc">Need screenshot permission to capture screen content</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="ai_result_placeholder">AI result will appear here...</string>
+    <string name="notification_title">Float AI Result</string>
+    <string name="notification_content">AI has processed your screenshot</string>
+    <string name="error_network">Network error, please check connection</string>
+    <string name="error_server">Server error, please try later</string>
+    <string name="error_unknown">Unknown error occurred</string>
+</resources>
